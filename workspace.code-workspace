@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\xampp\\htdocs\\game"
+		},
+		{
+			"path": "..\\space_Invaders_start"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\particle_system_1"
+		},
+		{
+			"path": "..\\GUI_gettingStarted\\GUI_gettingStarted"
+		},
+		{
+			"path": "..\\Lab2"
+		},
+		{
+			"path": "..\\example"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CA"
+	}
+}
